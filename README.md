@@ -1,14 +1,36 @@
-#Covid19_Crisis
+# Covid 19 - Crisis
 
-Estudo sobre os dados da crise do Covid19.
+O objetivo deste github é relizar um estudo sobre os dados da crise da Covid19.
 
-Requisitos para rodar o código:
-	Python 3 (Python 3.6)
-	Biblioteca Panda (version 0.23.4)
-	Biblioteca Numpy (1.11.1)
+## Requisitos
 
-Repositório de dados: https://github.com/CSSEGISandData/COVID-19
+Ferramentas utilizadas para a construção do código:
 
-**Este código está sendo construído através do Google Colab**
+```bash
+Python 3 (Python 3.6) 
+Biblioteca Panda (version 0.23.4)
+Biblioteca Numpy (1.11.1)
+```
 
-Dados atualizados em 28/03/2020.
+## Repositório de Dados
+
+```python
+https://github.com/CSSEGISandData/COVID-19
+
+
+## Contributing
+
+Pull Requests são bem-vindos. Para grandes mudanças, abra uma issue primeiro para discutirmos 
+as mudanças e aperfeiçoamentos que você gostaria de implementar
+
+Atualize os códigos/testes conforme apropriado.
+
+```
+
+Pull Requests are welcome. For major changes, open an issue first to discuss the
+changes and improvements you would like to implement
+
+Update codes / tests as appropriate.
+
+## License
+[Creative Commons v3](https://creativecommons.org/licenses/by/3.0/)
