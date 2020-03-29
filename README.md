@@ -25,12 +25,12 @@ as mudanças e aperfeiçoamentos que você gostaria de implementar
 
 Atualize os códigos/testes conforme apropriado.
 
-```
-
 Pull Requests are welcome. For major changes, open an issue first to discuss the
 changes and improvements you would like to implement
 
 Update codes / tests as appropriate.
+
+```
 
 ## License
 [Creative Commons v3](https://creativecommons.org/licenses/by/3.0/)
