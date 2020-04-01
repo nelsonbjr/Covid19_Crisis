@@ -15,7 +15,8 @@ Biblioteca Numpy (1.11.1)
 ## Repositório de Dados
 
 ```python
-https://github.com/CSSEGISandData/COVID-19
+https://github.com/CSSEGISandData/COVID-19 (Global)
+https://www.seade.gov.br/coronavirus/ (São Paulo)
 
 
 ## Contributing
