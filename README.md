@@ -17,8 +17,8 @@ Biblioteca Numpy (1.11.1)
 ```python
 https://github.com/CSSEGISandData/COVID-19 (Global)
 https://www.seade.gov.br/coronavirus/ (São Paulo)
-
-
+```
+```python
 ## Contributing
 
 Pull Requests são bem-vindos. Para grandes mudanças, abra uma issue primeiro para discutirmos 
